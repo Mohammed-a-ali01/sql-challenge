@@ -12,8 +12,3 @@ Our Schema shows the relationships between our entities. From this we can better
 
 # Tables 
 [text](EmploymentSQL/TableSchema.sql)
-
-
-# Queries Ouput
-
-
